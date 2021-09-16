@@ -1,0 +1,399 @@
+Year,Sample_ID,Tissue_type,Coral,Depth,Atoll,Site,Host_d13C,Host_d15N,Host_C_ug,Host_wt-percent_C,Host_wt-percent_C_num,Host_N_ug,Host_wt-percent_N,Host_wt-percent_N_num,Host_dry-weight_mg,Host_dry-weight_ug,Host_CN_molar-ratio
+2015,HM002,Host,Pachyseris,Deep,North Male,Reethi Rah,-15.7,5,261.46,0.071,7.1,46.49,0.013,1.3,3.691,3691,6.6
+2015,HM005,Host,Pachyseris,Deep,North Male,Reethi Rah,-15,5,307.32,0.084,8.4,55.1,0.015,1.5,3.65,3650,6.5
+2015,HM009,Host,Pachyseris,Deep,North Male,Reethi Rah,-14.7,5.2,234.47,0.063,6.3,44.28,0.012,1.2,3.698,3698,6.2
+2015,HM010,Host,Galaxea,Deep,North Male,Reethi Rah,-17.3,5.1,159.66,0.044,4.4,33.7,0.009,0.9,3.626,3626,5.5
+2015,HM011,Host,Galaxea,Deep,North Male,Reethi Rah,-17.6,5.7,185.55,0.051,5.1,36,0.01,1,3.669,3669,6
+2015,HM012,Host,Galaxea,Deep,North Male,Reethi Rah,-17.4,5.3,274.18,0.074,7.4,48.56,0.013,1.3,3.683,3683,6.6
+2015,HM016,Host,Pachyseris,Shallow,North Male,Reethi Rah,-13,5.8,393.54,0.109,10.9,71.11,0.02,2,3.621,3621,6.5
+2015,HM017,Host,Pachyseris,Shallow,North Male,Reethi Rah,-16.4,4.7,269.44,0.074,7.4,58.46,0.016,1.6,3.662,3662,5.4
+2015,HM021,Host,Galaxea,Shallow,North Male,Reethi Rah,-14.5,4.6,218.58,0.059,5.9,44.88,0.012,1.2,3.674,3674,5.7
+2015,HM024,Host,Galaxea,Shallow,North Male,Reethi Rah,-15,5.2,291.97,0.08,8,55.81,0.015,1.5,3.658,3658,6.1
+2015,HM031,Host,Galaxea,Shallow,North Male,Reethi Rah,-15,4.9,328.81,0.091,9.1,63.86,0.018,1.8,3.63,3630,6
+2015,HM034,Host,Pachyseris,Deep,North Ari,Mathiveri,-14.5,4.7,250.89,0.069,6.9,45.79,0.013,1.3,3.619,3619,6.4
+2015,HM035,Host,Pachyseris,Deep,North Ari,Mathiveri,-15.5,5,172.89,0.047,4.7,31.58,0.009,0.9,3.645,3645,6.4
+2015,HM037,Host,Pachyseris,Deep,North Ari,Mathiveri,-15.9,4.6,179.67,0.049,4.9,33.47,0.009,0.9,3.643,3643,6.3
+2015,HM040,Host,Galaxea,Deep,North Ari,Mathiveri,-16.6,5.4,399.46,0.111,11.1,63.34,0.018,1.8,3.611,3611,7.4
+2015,HM041,Host,Galaxea,Deep,North Ari,Mathiveri,-17.6,5.4,310.86,0.086,8.6,70.3,0.019,1.9,3.635,3635,5.2
+2015,HM045,Host,Galaxea,Deep,North Ari,Mathiveri,-17.7,6.2,408.9,0.112,11.2,77.32,0.021,2.1,3.649,3649,6.2
+2015,HM050,Host,Galaxea,Shallow,North Ari,Mathiveri,-15.3,5.3,615.95,0.169,16.9,114.76,0.031,3.1,3.645,3645,6.3
+2015,HM055,Host,Galaxea,Shallow,North Ari,Mathiveri,-14.8,5.7,590.13,0.163,16.3,116.06,0.032,3.2,3.611,3611,5.9
+2015,HM056,Host,Galaxea,Shallow,North Ari,Mathiveri,-15.9,5.4,455.48,0.124,12.4,92.55,0.025,2.5,3.662,3662,5.7
+2015,HM059,Host,Galaxea,Deep,North Ari,Dinoluga,-18,6.1,213.86,0.059,5.9,49.71,0.014,1.4,3.621,3621,5
+2015,HM060,Host,Galaxea,Deep,North Ari,Dinoluga,-17.7,5.6,431.52,0.117,11.7,78.29,0.021,2.1,3.686,3686,6.4
+2015,HM061,Host,Galaxea,Deep,North Ari,Dinoluga,-17.2,5.9,323.82,0.089,8.9,63.92,0.018,1.8,3.65,3650,5.9
+2015,HM063,Host,Pocillopora,Deep,North Ari,Dinoluga,-17,5.4,226.5,0.062,6.2,41.84,0.011,1.1,3.665,3665,6.3
+2015,HM068,Host,Pocillopora,Deep,North Ari,Dinoluga,-18.3,5.2,190.85,0.053,5.3,34.39,0.01,1,3.616,3616,6.5
+2015,HM069,Host,Pocillopora,Deep,North Ari,Dinoluga,-19.2,5.2,202.85,0.056,5.6,41.36,0.011,1.1,3.617,3617,5.7
+2015,HM071,Host,Pachyseris,Deep,North Ari,Dinoluga,-13.8,5.5,274.18,0.075,7.5,50.4,0.014,1.4,3.68,3680,6.3
+2015,HM074,Host,Pachyseris,Deep,North Ari,Dinoluga,-13.9,5.7,321.53,0.088,8.8,56.14,0.015,1.5,3.664,3664,6.7
+2015,HM076,Host,Pachyseris,Deep,North Ari,Dinoluga,-18.5,4,159.63,0.044,4.4,26.3,0.007,0.7,3.633,3633,7.1
+2015,HM078,Host,Galaxea,Shallow,North Ari,Dinoluga,-15.2,4.7,735.68,0.201,20.1,119.24,0.033,3.3,3.655,3655,7.2
+2015,HM079,Host,Galaxea,Shallow,North Ari,Dinoluga,-15.5,5.3,492.73,0.137,13.7,86.82,0.024,2.4,3.604,3604,6.6
+2015,HM082,Host,Galaxea,Shallow,North Ari,Dinoluga,-15.5,5,339.52,0.094,9.4,73.4,0.02,2,3.596,3596,5.4
+2015,HM090,Host,Pocillopora,Shallow,North Ari,Dinoluga,-16.9,5.4,381.44,0.102,10.2,74.47,0.02,2,3.746,3746,6
+2015,HM094,Host,Pocillopora,Shallow,North Ari,Dinoluga,-17.7,6.2,392.16,0.107,10.7,78.18,0.021,2.1,3.665,3665,5.9
+2015,HM096,Host,Pocillopora,Shallow,North Ari,Dinoluga,-16.5,5.7,387.4,0.106,10.6,80.92,0.022,2.2,3.659,3659,5.6
+2015,HM101,Host,Pachyseris,Deep,South Ari,Dhiggaru Falhu,-15.4,5.9,281.44,0.078,7.8,49.98,0.014,1.4,3.617,3617,6.6
+2015,HM105,Host,Pachyseris,Deep,South Ari,Dhiggaru Falhu,-14.2,5.6,384.84,0.106,10.6,66.39,0.018,1.8,3.616,3616,6.8
+2015,HM106,Host,Pachyseris,Deep,South Ari,Dhiggaru Falhu,-15.4,5.6,241.51,0.067,6.7,41.83,0.012,1.2,3.616,3616,6.7
+2015,HM108,Host,Pocillopora,Deep,South Ari,Dhiggaru Falhu,-18.4,5.2,291.97,0.079,7.9,58.11,0.016,1.6,3.684,3684,5.9
+2015,HM109,Host,Pocillopora,Deep,South Ari,Dhiggaru Falhu,-19.1,4.9,166.15,0.045,4.5,35.37,0.01,1,3.697,3697,5.5
+2015,HM110,Host,Pocillopora,Deep,South Ari,Dhiggaru Falhu,-18.2,5.3,192.02,0.052,5.2,34.51,0.009,0.9,3.697,3697,6.5
+2015,HM111,Host,Galaxea,Deep,South Ari,Dhiggaru Falhu,-16.7,5.7,402.77,0.111,11.1,77.64,0.021,2.1,3.622,3622,6.1
+2015,HM112,Host,Pachyseris,Shallow,South Ari,Dhiggaru Falhu,-13.7,5.8,442.23,0.122,12.2,80.65,0.022,2.2,3.625,3625,6.4
+2015,HM115,Host,Pachyseris,Shallow,South Ari,Dhiggaru Falhu,-14.5,6,405.16,0.111,11.1,69.15,0.019,1.9,3.655,3655,6.8
+2015,HM119,Host,Pachyseris,Shallow,South Ari,Dhiggaru Falhu,-16,5.3,465.94,0.129,12.9,81.64,0.023,2.3,3.617,3617,6.7
+2015,HM123,Host,Pocillopora,Shallow,South Ari,Dhiggaru Falhu,-17.3,5.8,406.46,0.111,11.1,81.51,0.022,2.2,3.669,3669,5.8
+2015,HM124,Host,Pocillopora,Shallow,South Ari,Dhiggaru Falhu,-17.4,5.5,420.78,0.114,11.4,80.56,0.022,2.2,3.702,3702,6.1
+2015,HM125,Host,Pocillopora,Shallow,South Ari,Dhiggaru Falhu,-17.7,5.5,213.23,0.059,5.9,42.18,0.012,1.2,3.611,3611,5.9
+2015,HM129,Host,Galaxea,Shallow,South Ari,Dhiggaru Falhu,-19.8,5.7,215.04,0.059,5.9,40.15,0.011,1.1,3.635,3635,6.2
+2015,HM131,Host,Galaxea,Shallow,South Ari,Dhiggaru Falhu,-15.2,5.5,281.3,0.076,7.6,59.03,0.016,1.6,3.679,3679,5.6
+2015,HM132,Host,Galaxea,Shallow,South Ari,Dhiggaru Falhu,-17,5.7,249.06,0.068,6.8,50.83,0.014,1.4,3.668,3668,5.7
+2015,HM139,Host,Pachyseris,Deep,Dhaalu,Hulhuvehi,-15.5,6,424.36,0.117,11.7,77.34,0.021,2.1,3.616,3616,6.4
+2015,HM142,Host,Pachyseris,Deep,Dhaalu,Hulhuvehi,-16.5,5.5,216.9,0.06,6,39.61,0.011,1.1,3.638,3638,6.4
+2015,HM143,Host,Pachyseris,Deep,Dhaalu,Hulhuvehi,-16.5,5.3,298.31,0.083,8.3,52.6,0.015,1.5,3.613,3613,6.6
+2015,HM145,Host,Galaxea,Deep,Dhaalu,Hulhuvehi,-17.1,6,327.62,0.091,9.1,66.5,0.018,1.8,3.62,3620,5.7
+2015,HM146,Host,Galaxea,Deep,Dhaalu,Hulhuvehi,-18.2,5.6,268.9,0.074,7.4,50.81,0.014,1.4,3.638,3638,6.2
+2015,HM148,Host,Pocillopora,Deep,Dhaalu,Hulhuvehi,-18.8,5.3,265.89,0.072,7.2,56.04,0.015,1.5,3.675,3675,5.5
+2015,HM152,Host,Pocillopora,Deep,Dhaalu,Hulhuvehi,-16.6,5.2,358.59,0.098,9.8,63.4,0.017,1.7,3.655,3655,6.6
+2015,HM153,Host,Pocillopora,Deep,Dhaalu,Hulhuvehi,-19.3,5.4,281.3,0.077,7.7,58.11,0.016,1.6,3.645,3645,5.6
+2015,HM155,Host,Pocillopora,Shallow,Dhaalu,Hulhuvehi,-17.6,5.7,408.07,0.112,11.2,84.05,0.023,2.3,3.647,3647,5.7
+2015,HM157,Host,Pocillopora,Shallow,Dhaalu,Hulhuvehi,-15.9,5.9,350.51,0.097,9.7,76.39,0.021,2.1,3.612,3612,5.4
+2015,HM158,Host,Pocillopora,Shallow,Dhaalu,Hulhuvehi,-18.1,5.6,202.62,0.056,5.6,44,0.012,1.2,3.6,3600,5.4
+2015,HM161,Host,Pachyseris,Shallow,Dhaalu,Hulhuvehi,-16.2,4.4,361.4,0.1,10,63.98,0.018,1.8,3.623,3623,6.6
+2015,HM162,Host,Pachyseris,Shallow,Dhaalu,Hulhuvehi,-15.9,4.7,381.26,0.105,10.5,67.42,0.019,1.9,3.614,3614,6.6
+2015,HM163,Host,Pachyseris,Shallow,Dhaalu,Hulhuvehi,-16.8,4.5,326.18,0.089,8.9,59.86,0.016,1.6,3.655,3655,6.4
+2015,HM165,Host,Galaxea,Shallow,Dhaalu,Hulhuvehi,-13.6,5.9,440.98,0.122,12.2,75.63,0.021,2.1,3.625,3625,6.8
+2015,HM167,Host,Galaxea,Shallow,Dhaalu,Hulhuvehi,-14.8,5.7,453.08,0.125,12.5,74.31,0.02,2,3.629,3629,7.1
+2015,HM169,Host,Galaxea,Shallow,Dhaalu,Hulhuvehi,-16.3,5.5,832.82,0.227,22.7,129.88,0.035,3.5,3.673,3673,7.5
+2015,HM171,Host,Pachyseris,Deep,Dhaalu,Maafushi,-14.2,5.6,487.91,0.133,13.3,92.9,0.025,2.5,3.668,3668,6.1
+2015,HM178,Host,Pachyseris,Deep,Dhaalu,Maafushi,-14.5,5.2,408.94,0.113,11.3,75.16,0.021,2.1,3.603,3603,6.3
+2015,HM179,Host,Pachyseris,Deep,Dhaalu,Maafushi,-15.9,5.5,537.31,0.148,14.8,101.14,0.028,2.8,3.642,3642,6.2
+2015,HM183,Host,Galaxea,Deep,Dhaalu,Maafushi,-18.1,5.7,204.42,0.056,5.6,40.5,0.011,1.1,3.647,3647,5.9
+2015,HM184,Host,Galaxea,Deep,Dhaalu,Maafushi,-19.5,5.7,202.06,0.055,5.5,39.58,0.011,1.1,3.654,3654,6
+2015,HM185,Host,Galaxea,Deep,Dhaalu,Maafushi,-18,6.1,524.92,0.144,14.4,99.76,0.027,2.7,3.651,3651,6.1
+2015,HM186,Host,Pocillopora,Shallow,Dhaalu,Maafushi,-15,6.2,380.25,0.105,10.5,84.01,0.023,2.3,3.611,3611,5.3
+2015,HM188,Host,Pocillopora,Shallow,Dhaalu,Maafushi,-15,6.2,268.71,0.074,7.4,55.02,0.015,1.5,3.631,3631,5.7
+2015,HM189,Host,Pocillopora,Shallow,Dhaalu,Maafushi,-15.5,6.2,335.07,0.092,9.2,70.17,0.019,1.9,3.628,3628,5.6
+2015,HM196,Host,Galaxea,Shallow,Dhaalu,Maafushi,-14.4,4.9,748.78,0.205,20.5,126.67,0.035,3.5,3.645,3645,6.9
+2015,HM198,Host,Galaxea,Shallow,Dhaalu,Maafushi,-15.3,5.1,812.48,0.219,21.9,134.89,0.036,3.6,3.712,3712,7
+2015,HM200,Host,Galaxea,Shallow,Dhaalu,Maafushi,-16.7,6.5,667.04,0.181,18.1,122.93,0.033,3.3,3.689,3689,6.3
+2015,HM201,Host,Pachyseris,Shallow,Meemu,Kurali,-16.2,4.8,132.64,0.036,3.6,24.82,0.007,0.7,3.635,3635,6.2
+2015,HM202,Host,Pachyseris,Shallow,Meemu,Kurali,-16.3,4.8,138.64,0.037,3.7,24.66,0.007,0.7,3.707,3707,6.6
+2015,HM205,Host,Pachyseris,Deep,Meemu,Bodu huraa,-14.9,5.5,357.4,0.097,9.7,65.35,0.018,1.8,3.692,3692,6.4
+2015,HM206,Host,Pachyseris,Deep,Meemu,Bodu huraa,-15.8,6.4,499.28,0.137,13.7,92.83,0.026,2.6,3.633,3633,6.3
+2015,HM207,Host,Pachyseris,Deep,Meemu,Bodu huraa,-14.7,5.1,294.35,0.08,8,54.89,0.015,1.5,3.696,3696,6.3
+2015,HM211,Host,Galaxea,Deep,Meemu,Bodu huraa,-17.3,5.1,322.64,0.089,8.9,64.5,0.018,1.8,3.615,3615,5.8
+2015,HM212,Host,Galaxea,Deep,Meemu,Bodu huraa,-16.2,5.9,503.56,0.138,13.8,97.94,0.027,2.7,3.662,3662,6
+2015,HM213,Host,Pocillopora,Deep,Meemu,Bodu huraa,-18.4,4.6,200.52,0.055,5.5,41.52,0.011,1.1,3.646,3646,5.6
+2015,HM216,Host,Pocillopora,Deep,Meemu,Bodu huraa,-17.1,5.3,276.55,0.075,7.5,55.58,0.015,1.5,3.669,3669,5.8
+2015,HM220,Host,Pocillopora,Deep,Meemu,Bodu huraa,-16.9,6.2,290.01,0.081,8.1,61.04,0.017,1.7,3.601,3601,5.5
+2015,HM225,Host,Galaxea,Deep,Meemu,Bodu huraa,-17.4,5.6,215.34,0.059,5.9,41.13,0.011,1.1,3.657,3657,6.1
+2015,HM228,Host,Pachyseris,Shallow,Meemu,Bodu huraa,-15,5.3,437.49,0.121,12.1,79.02,0.022,2.2,3.627,3627,6.5
+2015,HM230,Host,Pachyseris,Shallow,Meemu,Bodu huraa,-15.5,4.9,352.63,0.096,9.6,61.68,0.017,1.7,3.676,3676,6.7
+2015,HM232,Host,Pachyseris,Shallow,Meemu,Bodu huraa,-12.6,5.2,448.55,0.122,12.2,77.92,0.021,2.1,3.687,3687,6.7
+2015,HM235,Host,Pocillopora,Shallow,Meemu,Bodu huraa,-18.8,5.6,179.08,0.049,4.9,34.39,0.009,0.9,3.677,3677,6.1
+2015,HM236,Host,Pocillopora,Shallow,Meemu,Bodu huraa,-18.1,5.4,284.09,0.078,7.8,54.78,0.015,1.5,3.645,3645,6.1
+2015,HM238,Host,Pocillopora,Shallow,Meemu,Bodu huraa,-18.6,5.6,282.91,0.077,7.7,55.62,0.015,1.5,3.666,3666,5.9
+2015,HM241,Host,Galaxea,Shallow,Meemu,Bodu huraa,-15,5.5,450.48,0.123,12.3,82.68,0.023,2.3,3.674,3674,6.4
+2015,HM246,Host,Galaxea,Shallow,Meemu,Bodu huraa,-16.3,5.6,428.75,0.118,11.8,85.33,0.023,2.3,3.637,3637,5.9
+2015,HM248,Host,Galaxea,Shallow,Meemu,Bodu huraa,-14.6,4.6,205.6,0.056,5.6,43.38,0.012,1.2,3.648,3648,5.5
+2015,HM254,Host,Pachyseris,Deep,Meemu,Veyvah,-14,5.2,388.8,0.106,10.6,74.35,0.02,2,3.667,3667,6.1
+2015,HM255,Host,Pachyseris,Deep,Meemu,Veyvah,-15.4,4.8,297.91,0.082,8.2,53.7,0.015,1.5,3.641,3641,6.5
+2015,HM256,Host,Pachyseris,Deep,Meemu,Veyvah,-15.6,5.4,430.39,0.116,11.6,83.66,0.023,2.3,3.715,3715,6
+2015,HM261,Host,Galaxea,Deep,Meemu,Veyvah,-17.5,5.4,406.46,0.111,11.1,82.82,0.023,2.3,3.672,3672,5.7
+2015,HM262,Host,Galaxea,Deep,Meemu,Veyvah,-18.4,5.7,445.88,0.122,12.2,80.63,0.022,2.2,3.655,3655,6.5
+2015,HM263,Host,Galaxea,Deep,Meemu,Veyvah,-18.5,5.1,235.63,0.065,6.5,42.18,0.012,1.2,3.639,3639,6.5
+2015,HM265,Host,Pocillopora,Deep,Meemu,Veyvah,-18,4.8,260.98,0.072,7.2,54.95,0.015,1.5,3.641,3641,5.5
+2015,HM266,Host,Pocillopora,Deep,Meemu,Veyvah,-18.1,5.5,353.32,0.098,9.8,64.74,0.018,1.8,3.61,3610,6.4
+2015,HM267,Host,Pocillopora,Deep,Meemu,Veyvah,-17.8,4.7,244.58,0.067,6.7,48.68,0.013,1.3,3.677,3677,5.9
+2015,HM268,Host,Pocillopora,Deep,Meemu,Veyvah,-18.6,5.6,381.49,0.106,10.6,73.21,0.02,2,3.599,3599,6.1
+2015,HM273,Host,Galaxea,Shallow,Meemu,Veyvah,-16.7,5.4,354.51,0.098,9.8,63.92,0.018,1.8,3.616,3616,6.5
+2015,HM275,Host,Galaxea,Shallow,Meemu,Veyvah,-14.7,5.7,520.12,0.143,14.3,97.99,0.027,2.7,3.643,3643,6.2
+2015,HM276,Host,Galaxea,Shallow,Meemu,Veyvah,-17.4,4.1,741.88,0.203,20.3,117.2,0.032,3.2,3.647,3647,7.4
+2015,HM279,Host,Pocillopora,Shallow,Meemu,Veyvah,-18.6,5.9,461.15,0.126,12.6,104.46,0.029,2.9,3.661,3661,5.2
+2015,HM282,Host,Pocillopora,Shallow,Meemu,Veyvah,-16.8,5.4,308.97,0.085,8.5,67.65,0.019,1.9,3.624,3624,5.3
+2015,HM284,Host,Pocillopora,Shallow,Meemu,Veyvah,-18.5,5.4,333.88,0.091,9.1,70.77,0.019,1.9,3.65,3650,5.5
+2015,HM289,Host,Pocillopora,Deep,Vaavu,Kandimma Falhu,-17.7,5.4,381.44,0.103,10.3,75.07,0.02,2,3.708,3708,5.9
+2015,HM290,Host,Pocillopora,Deep,Vaavu,Kandimma Falhu,-19.2,5.6,204.98,0.056,5.6,41.82,0.011,1.1,3.643,3643,5.7
+2015,HM291,Host,Pocillopora,Deep,Vaavu,Kandimma Falhu,-17.7,5.6,223.3,0.061,6.1,45.22,0.012,1.2,3.684,3684,5.8
+2015,HM293,Host,Pachyseris,Deep,Vaavu,Kandimma Falhu,-15.8,5.9,369.87,0.101,10.1,68.91,0.019,1.9,3.661,3661,6.3
+2015,HM294,Host,Pachyseris,Deep,Vaavu,Kandimma Falhu,-14.2,5.8,362.78,0.1,10,69.84,0.019,1.9,3.645,3645,6.1
+2015,HM295,Host,Pachyseris,Deep,Vaavu,Kandimma Falhu,-15.4,5.8,387.62,0.107,10.7,72.38,0.02,2,3.631,3631,6.2
+2015,HM302,Host,Galaxea,Deep,Vaavu,Kandimma Falhu,-18.3,5.8,389.98,0.108,10.8,69.49,0.019,1.9,3.626,3626,6.5
+2015,HM303,Host,Galaxea,Deep,Vaavu,Kandimma Falhu,-17.6,6.2,309.68,0.085,8.5,60.91,0.017,1.7,3.649,3649,5.9
+2015,HM305,Host,Galaxea,Shallow,Vaavu,Kandimma Falhu,-14.2,6,614.73,0.169,16.9,111.1,0.031,3.1,3.631,3631,6.5
+2015,HM307,Host,Galaxea,Shallow,Vaavu,Kandimma Falhu,-17.1,6.2,514.4,0.139,13.9,98.62,0.027,2.7,3.692,3692,6.1
+2015,HM309,Host,Galaxea,Shallow,Vaavu,Kandimma Falhu,-14.3,6,427.55,0.117,11.7,79.69,0.022,2.2,3.644,3644,6.3
+2015,HM312,Host,Pocillopora,Shallow,Vaavu,Kandimma Falhu,-17.4,6,504.19,0.138,13.8,91.65,0.025,2.5,3.654,3654,6.4
+2015,HM314,Host,Pocillopora,Shallow,Vaavu,Kandimma Falhu,-18.3,5.9,326.76,0.09,9,69.45,0.019,1.9,3.642,3642,5.5
+2015,HM317,Host,Pocillopora,Shallow,Vaavu,Kandimma Falhu,-18.3,5.7,388.59,0.108,10.8,72.44,0.02,2,3.603,3603,6.3
+2015,HM319,Host,Pachyseris,Shallow,Vaavu,Kandimma Falhu,-14.5,5.9,416.02,0.111,11.1,80.37,0.022,2.2,3.733,3733,6
+2015,HM322,Host,Pachyseris,Shallow,Vaavu,Kandimma Falhu,-13.7,5.9,471.89,0.131,13.1,84.99,0.024,2.4,3.613,3613,6.5
+2015,HM324,Host,Pachyseris,Shallow,Vaavu,Kandimma Falhu,-13,5.2,295.41,0.082,8.2,60.81,0.017,1.7,3.606,3606,5.7
+2015,HM326,Host,Pachyseris,Deep,Vaavu,Medhu Faru,-13.1,5.6,295.55,0.081,8.1,51.03,0.014,1.4,3.629,3629,6.8
+2015,HM332,Host,Pachyseris,Deep,Vaavu,Medhu Faru,-15.5,5.4,229.21,0.064,6.4,42.92,0.012,1.2,3.602,3602,6.2
+2015,HM333,Host,Pachyseris,Deep,Vaavu,Medhu Faru,-14.2,5.7,266.55,0.073,7.3,49.55,0.014,1.4,3.654,3654,6.3
+2015,HM336,Host,Pocillopora,Deep,Vaavu,Medhu Faru,-17.5,5.7,401.69,0.109,10.9,79.73,0.022,2.2,3.671,3671,5.9
+2015,HM337,Host,Pocillopora,Deep,Vaavu,Medhu Faru,-16.8,5.7,336.36,0.09,9,69,0.019,1.9,3.718,3718,5.7
+2015,HM342,Host,Pocillopora,Deep,Vaavu,Medhu Faru,-18.3,5.6,427.94,0.118,11.8,83.65,0.023,2.3,3.642,3642,6
+2015,HM344,Host,Galaxea,Deep,Vaavu,Medhu Faru,-18.5,5.5,255.49,0.07,7,50.66,0.014,1.4,3.648,3648,5.9
+2015,HM348,Host,Galaxea,Deep,Vaavu,Medhu Faru,-17.5,5.3,262.33,0.072,7.2,44.42,0.012,1.2,3.622,3622,6.9
+2015,HM349,Host,Galaxea,Deep,Vaavu,Medhu Faru,-17.6,5.1,206.36,0.057,5.7,40.08,0.011,1.1,3.619,3619,6
+2015,HM350,Host,Pocillopora,Shallow,Vaavu,Medhu Faru,-16.9,5.9,430.33,0.117,11.7,80.44,0.022,2.2,3.683,3683,6.2
+2015,HM354,Host,Pocillopora,Shallow,Vaavu,Medhu Faru,-17.9,5.8,476.96,0.13,13,100.35,0.027,2.7,3.683,3683,5.5
+2015,HM358,Host,Pocillopora,Shallow,Vaavu,Medhu Faru,-18,6.1,476.84,0.129,12.9,101.15,0.027,2.7,3.687,3687,5.5
+2015,HM360,Host,Pachyseris,Shallow,Vaavu,Medhu Faru,-15.4,5.2,360.41,0.099,9.9,69.72,0.019,1.9,3.64,3640,6
+2015,HM363,Host,Pachyseris,Shallow,Vaavu,Medhu Faru,-16.9,4.9,205.6,0.057,5.7,37.27,0.01,1,3.607,3607,6.4
+2015,HM364,Host,Pachyseris,Shallow,Vaavu,Medhu Faru,-17.5,4.7,289.6,0.079,7.9,60.3,0.016,1.6,3.684,3684,5.6
+2015,HM366,Host,Galaxea,Shallow,Vaavu,Medhu Faru,-15.3,5.5,439.88,0.119,11.9,83.61,0.023,2.3,3.694,3694,6.1
+2015,HM370,Host,Galaxea,Shallow,Vaavu,Medhu Faru,-15.4,6.4,438.69,0.118,11.8,93.38,0.025,2.5,3.718,3718,5.5
+2015,HM373,Host,Galaxea,Shallow,Vaavu,Medhu Faru,-14.8,5.3,456.68,0.125,12.5,86.48,0.024,2.4,3.665,3665,6.2
+2015,HM378,Host,Galaxea,Shallow,Vaavu,Medhu Faru,-16.2,6,380.06,0.105,10.5,73.4,0.02,2,3.615,3615,6
+2015,HM385,Host,Pachyseris,Shallow,South Male,Maafushi S. Male,-14.8,5.1,372.9,0.103,10.3,66.27,0.018,1.8,3.608,3608,6.6
+2015,HM386,Host,Pachyseris,Shallow,South Male,Maafushi S. Male,-14.7,5.3,442.16,0.121,12.1,74.12,0.02,2,3.66,3660,7
+2015,HM388,Host,Pachyseris,Shallow,South Male,Maafushi S. Male,-15.5,5.4,407.65,0.112,11.2,76.5,0.021,2.1,3.632,3632,6.2
+2015,HM391,Host,Pocillopora,Deep,South Male,Fushidiggaru Falhu,-18.7,5.1,487.74,0.133,13.3,93.97,0.026,2.6,3.677,3677,6.1
+2015,HM394,Host,Pocillopora,Deep,South Male,Fushidiggaru Falhu,-17.4,5.3,279.36,0.077,7.7,50.43,0.014,1.4,3.632,3632,6.5
+2015,HM395,Host,Pocillopora,Deep,South Male,Fushidiggaru Falhu,-17.2,5.9,285.28,0.078,7.8,48.73,0.013,1.3,3.654,3654,6.8
+2015,HM396,Host,Galaxea,Deep,South Male,Fushidiggaru Falhu,-16.7,5,396.79,0.107,10.7,67.88,0.018,1.8,3.696,3696,6.8
+2015,HM398,Host,Galaxea,Deep,South Male,Fushidiggaru Falhu,-17.8,5.1,245.76,0.068,6.8,50.63,0.014,1.4,3.627,3627,5.7
+2015,HM400,Host,Galaxea,Deep,South Male,Fushidiggaru Falhu,-15.9,5.3,352.63,0.096,9.6,60.99,0.017,1.7,3.666,3666,6.7
+2017,HM403,Host,Pachyseris,Deep,North Ari,Mathiveri,-15.1,5.6,529.74,0.145,14.5,92.27,0.025,2.5,3.642,3642,6.7
+2017,HM404,Host,Pachyseris,Deep,North Ari,Mathiveri,-13.9,6.6,250.67,0.069,6.9,46.39,0.013,1.3,3.648,3648,6.3
+2017,HM405,Host,Pachyseris,Deep,North Ari,Mathiveri,-14.9,6.6,157.96,0.043,4.3,30.45,0.008,0.8,3.681,3681,6.1
+2017,HM411,Host,Galaxea,Shallow,North Ari,Mathiveri,-16.3,6.5,579.38,0.16,16,115.28,0.032,3.2,3.623,3623,5.9
+2017,HM412,Host,Pocillopora,Shallow,North Ari,Mathiveri,-17,5.7,364.33,0.099,9.9,85.16,0.023,2.3,3.697,3697,5
+2017,HM415,Host,Galaxea,Shallow,North Ari,Mathiveri,-16.1,5.7,764.41,0.207,20.7,139.38,0.038,3.8,3.692,3692,6.4
+2017,HM418,Host,Pocillopora,Shallow,North Ari,Mathiveri,-18.8,6.4,431.4,0.119,11.9,93.71,0.026,2.6,3.616,3616,5.4
+2017,HM420,Host,Pocillopora,Shallow,North Ari,Mathiveri,-18.2,6.6,373.91,0.102,10.2,79.65,0.022,2.2,3.679,3679,5.5
+2017,HM421,Host,Galaxea,Shallow,North Ari,Mathiveri,-16.8,6.1,494.08,0.134,13.4,101.36,0.028,2.8,3.684,3684,5.7
+2017,HM422,Host,Pachyseris,Deep,North Ari,Dinoluga,-14.9,5.1,220.85,0.061,6.1,40.48,0.011,1.1,3.644,3644,6.4
+2017,HM423,Host,Pachyseris,Deep,North Ari,Dinoluga,-16.3,5.7,330.06,0.09,9,58.07,0.016,1.6,3.684,3684,6.6
+2017,HM424,Host,Pachyseris,Deep,North Ari,Dinoluga,-17.8,5.3,480.59,0.131,13.1,66.7,0.018,1.8,3.676,3676,8.4
+2017,HM425,Host,Pocillopora,Deep,North Ari,Dinoluga,-17.8,5.1,328.26,0.089,8.9,75.93,0.021,2.1,3.678,3678,5
+2017,HM427,Host,Galaxea,Deep,North Ari,Dinoluga,-17.6,5.3,137.56,0.038,3.8,36,0.01,1,3.66,3660,4.5
+2017,HM428,Host,Pocillopora,Deep,North Ari,Dinoluga,-18.8,5.8,223.42,0.062,6.2,52.89,0.015,1.5,3.627,3627,4.9
+2017,HM432,Host,Galaxea,Deep,North Ari,Dinoluga,-18.5,5.4,154.47,0.042,4.2,38.93,0.011,1.1,3.682,3682,4.6
+2017,HM433,Host,Galaxea,Deep,North Ari,Dinoluga,,5.1,99.44,0.049,4.9,23.18,0.011,1.1,2.024,2024,5
+2017,HM436,Host,Galaxea,Deep,North Ari,Dinoluga,-17.8,6.8,122.05,0.034,3.4,28.28,0.008,0.8,3.628,3628,5
+2017,HM442,Host,Pocillopora,Deep,North Ari,Dinoluga,-18.7,4.6,170,0.047,4.7,42.48,0.012,1.2,3.639,3639,4.7
+2017,HM443,Host,Galaxea,Deep,North Ari,Dinoluga,-17.9,5.7,204.04,0.056,5.6,48.05,0.013,1.3,3.612,3612,5
+2017,HM447,Host,Pocillopora,Deep,North Ari,Dinoluga,-17.7,5.2,128.01,0.036,3.6,30.9,0.009,0.9,3.588,3588,4.8
+2017,HM448,Host,Galaxea,Deep,North Ari,Dinoluga,-17.2,5.9,266.14,0.072,7.2,55.78,0.015,1.5,3.673,3673,5.6
+2017,HM452,Host,Galaxea,Shallow,North Ari,Dinoluga,-19,5.6,199.53,0.054,5.4,44.52,0.012,1.2,3.693,3693,5.2
+2017,HM453,Host,Pocillopora,Shallow,North Ari,Dinoluga,-17.1,5.4,241.24,0.065,6.5,56.17,0.015,1.5,3.684,3684,5
+2017,HM456,Host,Galaxea,Shallow,North Ari,Dinoluga,-17.7,5.7,377.59,0.102,10.2,69.27,0.019,1.9,3.693,3693,6.4
+2017,HM458,Host,Pocillopora,Shallow,North Ari,Dinoluga,-17.1,5.9,385.21,0.104,10.4,78.21,0.021,2.1,3.689,3689,5.7
+2017,HM463,Host,Pocillopora,Shallow,North Ari,Dinoluga,-16.3,5.5,168.72,0.047,4.7,38.96,0.011,1.1,3.606,3606,5.1
+2017,HM464,Host,Galaxea,Shallow,North Ari,Dinoluga,-17,4.8,106.56,0.029,2.9,25.33,0.007,0.7,3.668,3668,4.9
+2017,HM468,Host,Pachyseris,Deep,South Ari,Dhiggaru Falhu,-16.1,5.4,143.16,0.039,3.9,28.54,0.008,0.8,3.676,3676,5.9
+2017,HM470,Host,Pachyseris,Deep,South Ari,Dhiggaru Falhu,,,83.29,0.023,2.3,18.41,0.005,0.5,3.665,3665,5.3
+2017,HM472,Host,Pachyseris,Deep,South Ari,Dhiggaru Falhu,-15.5,5.4,115.51,0.032,3.2,25.01,0.007,0.7,3.632,3632,5.4
+2017,HM474,Host,Pocillopora,Deep,South Ari,Dhiggaru Falhu,-19.3,5.9,225.21,0.061,6.1,53.42,0.014,1.4,3.702,3702,4.9
+2017,HM475,Host,Pocillopora,Deep,South Ari,Dhiggaru Falhu,-19.6,5.6,213.84,0.059,5.9,51.91,0.014,1.4,3.622,3622,4.8
+2017,HM476,Host,Galaxea,Deep,South Ari,Dhiggaru Falhu,-18.3,5.4,105.02,0.029,2.9,25.16,0.007,0.7,3.625,3625,4.9
+2017,HM478,Host,Galaxea,Deep,South Ari,Dhiggaru Falhu,-17.7,5.7,136.49,0.037,3.7,30.38,0.008,0.8,3.693,3693,5.2
+2017,HM480,Host,Pocillopora,Deep,South Ari,Dhiggaru Falhu,-18.3,6.3,209.52,0.058,5.8,47.91,0.013,1.3,3.643,3643,5.1
+2017,HM485,Host,Galaxea,Deep,South Ari,Dhiggaru Falhu,-17.9,5.2,190.16,0.052,5.2,44.11,0.012,1.2,3.65,3650,5
+2017,HM487,Host,Pachyseris,Shallow,South Ari,Dhiggaru Falhu,-14.9,5.3,145.13,0.039,3.9,27.96,0.008,0.8,3.677,3677,6.1
+2017,HM489,Host,Pachyseris,Shallow,South Ari,Dhiggaru Falhu,-17.2,6.2,258.12,0.07,7,46.75,0.013,1.3,3.671,3671,6.4
+2017,HM490,Host,Pachyseris,Shallow,South Ari,Dhiggaru Falhu,,,50.28,0.014,1.4,12.84,0.004,0.4,3.589,3589,4.6
+2017,HM492,Host,Pachyseris,Shallow,South Ari,Dhiggaru Falhu,-14.8,5.8,159.67,0.044,4.4,34.57,0.009,0.9,3.655,3655,5.4
+2017,HM494,Host,Pocillopora,Shallow,South Ari,Dhiggaru Falhu,-17.9,6.5,364.15,0.101,10.1,83.6,0.023,2.3,3.616,3616,5.1
+2017,HM499,Host,Pocillopora,Shallow,South Ari,Dhiggaru Falhu,-18.7,5.8,181.9,0.049,4.9,42.86,0.012,1.2,3.68,3680,5
+2017,HM501,Host,Galaxea,Deep,North Male,Reethi Rah,-17.9,5.3,141.76,0.038,3.8,29.18,0.008,0.8,3.688,3688,5.7
+2017,HM502,Host,Galaxea,Deep,North Male,Reethi Rah,,,69.24,0.019,1.9,13.77,0.004,0.4,3.661,3661,5.9
+2017,HM504,Host,Pachyseris,Deep,North Male,Reethi Rah,,,91.71,0.025,2.5,19.18,0.005,0.5,3.688,3688,5.6
+2017,HM507,Host,Pachyseris,Deep,North Male,Reethi Rah,-14,5,146.29,0.04,4,31.41,0.008,0.8,3.696,3696,5.4
+2017,HM509,Host,Pachyseris,Deep,North Male,Reethi Rah,-16.6,5.3,150.14,0.041,4.1,30.39,0.008,0.8,3.631,3631,5.8
+2017,HM514,Host,Pachyseris,Shallow,North Male,Reethi Rah,-16.3,4.6,149.05,0.041,4.1,36.32,0.01,1,3.639,3639,4.8
+2017,HM516,Host,Galaxea,Shallow,North Male,Reethi Rah,-16.1,5.8,299.94,0.082,8.2,61.84,0.017,1.7,3.676,3676,5.7
+2017,HM517,Host,Galaxea,Shallow,North Male,Reethi Rah,-16.8,5.3,147.94,0.04,4,33.95,0.009,0.9,3.683,3683,5.1
+2017,HM518,Host,Galaxea,Shallow,North Male,Reethi Rah,-16.9,5.7,328.44,0.09,9,64.39,0.018,1.8,3.644,3644,6
+2017,HM519,Host,Pocillopora,Shallow,South Ari,Dhiggaru Falhu,-17.9,6.3,227.41,0.062,6.2,50.9,0.014,1.4,3.688,3688,5.2
+2017,HM522,Host,Galaxea,Shallow,South Ari,Dhiggaru Falhu,-15.2,6.1,129.71,0.035,3.5,30.27,0.008,0.8,3.677,3677,5
+2017,HM528,Host,Galaxea,Shallow,South Ari,Dhiggaru Falhu,-16.3,5.6,120.01,0.032,3.2,29.16,0.008,0.8,3.693,3693,4.8
+2017,HM529,Host,Galaxea,Shallow,South Ari,Dhiggaru Falhu,-16.3,5.1,135.65,0.037,3.7,34.42,0.009,0.9,3.685,3685,4.6
+2017,HM532,Host,Pachyseris,Shallow,South Ari,Dhangethi,-14.6,6.7,218.73,0.06,6,42.92,0.012,1.2,3.664,3664,5.9
+2017,HM534,Host,Pachyseris,Shallow,South Ari,Dhangethi,-16.5,6.5,213.41,0.058,5.8,40.34,0.011,1.1,3.658,3658,6.2
+2017,HM535,Host,Pachyseris,Shallow,South Ari,Dhangethi,-15.5,6.5,186.03,0.051,5.1,37.24,0.01,1,3.658,3658,5.8
+2017,HM542,Host,Pachyseris,Deep,South Ari,Dhangethi,-14.1,6.6,398.47,0.108,10.8,79.87,0.022,2.2,3.673,3673,5.8
+2017,HM543,Host,Pachyseris,Deep,South Ari,Dhangethi,-14.7,6,304.91,0.083,8.3,55.55,0.015,1.5,3.666,3666,6.4
+2017,HM546,Host,Pachyseris,Deep,South Ari,Dhangethi,-14.4,6.4,434.13,0.12,12,82.18,0.023,2.3,3.627,3627,6.2
+2017,HM554,Host,Galaxea,Deep,Dhaalu,Maadheli,,5.5,90.38,0.025,2.5,20.76,0.006,0.6,3.68,3680,5.1
+2017,HM555,Host,Galaxea,Deep,Dhaalu,Maadheli,-17.3,6,154.8,0.043,4.3,35.18,0.01,1,3.614,3614,5.1
+2017,HM556,Host,Galaxea,Deep,Dhaalu,Maadheli,-17.2,5.9,187.51,0.051,5.1,47.87,0.013,1.3,3.68,3680,4.6
+2017,HM557,Host,Galaxea,Deep,Dhaalu,Maadheli,-17.6,6,169.74,0.046,4.6,38.67,0.011,1.1,3.663,3663,5.1
+2017,HM558,Host,Galaxea,Deep,Dhaalu,Maadheli,-18.2,7.8,105.97,0.029,2.9,23.56,0.006,0.6,3.657,3657,5.2
+2017,HM560,Host,Pachyseris,Deep,Dhaalu,Maadheli,-13.3,6.5,258.49,0.07,7,58,0.016,1.6,3.674,3674,5.2
+2017,HM562,Host,Pachyseris,Deep,Dhaalu,Maadheli,-14,6.1,240.72,0.065,6.5,57.04,0.016,1.6,3.678,3678,4.9
+2017,HM566,Host,Pachyseris,Deep,Dhaalu,Maadheli,-14.6,6.8,259.68,0.072,7.2,52.46,0.014,1.4,3.621,3621,5.8
+2017,HM569,Host,Pocillopora,Deep,Dhaalu,Maadheli,-17.8,6,222.28,0.061,6.1,51.84,0.014,1.4,3.67,3670,5
+2017,HM570,Host,Pocillopora,Deep,Dhaalu,Maadheli,-19.8,5.9,202.07,0.056,5.6,51.28,0.014,1.4,3.606,3606,4.6
+2017,HM571,Host,Pocillopora,Deep,Dhaalu,Maadheli,-18.3,6,151.41,0.04,4,34.99,0.009,0.9,3.794,3794,5
+2017,HM574,Host,Pocillopora,Deep,Dhaalu,Maadheli,-19.5,6.3,170.48,0.047,4.7,42.15,0.012,1.2,3.644,3644,4.7
+2017,HM575,Host,Pocillopora,Deep,Dhaalu,Maadheli,-18.8,5.9,175.89,0.048,4.8,40.77,0.011,1.1,3.664,3664,5
+2017,HM577,Host,Galaxea,Shallow,Dhaalu,Maadheli,-17.7,6.5,297.85,0.081,8.1,64.96,0.018,1.8,3.7,3700,5.3
+2017,HM581,Host,Galaxea,Shallow,Dhaalu,Maadheli,-16.5,7,237.31,0.065,6.5,49.73,0.014,1.4,3.657,3657,5.6
+2017,HM585,Host,Galaxea,Shallow,Dhaalu,Maadheli,-16.2,6.4,322.42,0.089,8.9,67.44,0.019,1.9,3.612,3612,5.6
+2017,HM588,Host,Pocillopora,Shallow,Dhaalu,Maadheli,-18.5,6.2,415.74,0.115,11.5,98.63,0.027,2.7,3.629,3629,4.9
+2017,HM593,Host,Pocillopora,Shallow,Dhaalu,Maadheli,-17.8,6.2,310.14,0.086,8.6,71.79,0.02,2,3.606,3606,5
+2017,HM594,Host,Pocillopora,Shallow,Dhaalu,Maadheli,-17.4,6.3,240.77,0.066,6.6,53.41,0.015,1.5,3.653,3653,5.3
+2017,HM597,Host,Pachyseris,Deep,Dhaalu,Maafushi,-14.6,5.6,313.99,0.086,8.6,64.35,0.018,1.8,3.655,3655,5.7
+2017,HM599,Host,Pachyseris,Deep,Dhaalu,Maafushi,-14.9,5.7,184.8,0.051,5.1,36.05,0.01,1,3.653,3653,6
+2017,HM601,Host,Pocillopora,Deep,Dhaalu,Maafushi,-18.3,5.7,393.82,0.108,10.8,84.94,0.023,2.3,3.632,3632,5.4
+2017,HM607,Host,Pachyseris,Deep,Dhaalu,Maafushi,-15.1,5.1,361.97,0.098,9.8,74.17,0.02,2,3.697,3697,5.7
+2017,HM611,Host,Pocillopora,Shallow,Dhaalu,Maafushi,-17.8,5.9,263.53,0.072,7.2,59.73,0.016,1.6,3.664,3664,5.1
+2017,HM613,Host,Pocillopora,Shallow,Dhaalu,Maafushi,-18.3,5.5,479.24,0.132,13.2,108.85,0.03,3,3.638,3638,5.1
+2017,HM616,Host,Pocillopora,Shallow,Dhaalu,Maafushi,-18.9,6,191.95,0.053,5.3,45.13,0.012,1.2,3.634,3634,5
+2017,HM621,Host,Galaxea,Shallow,Dhaalu,Maafushi,-17.5,5.2,188.09,0.052,5.2,42.37,0.012,1.2,3.645,3645,5.2
+2017,HM622,Host,Galaxea,Shallow,Dhaalu,Maafushi,-17.6,6.1,190.62,0.053,5.3,43.82,0.012,1.2,3.61,3610,5.1
+2017,HM624,Host,Galaxea,Shallow,Dhaalu,Maafushi,-18.5,5.6,357.63,0.097,9.7,73.85,0.02,2,3.689,3689,5.6
+2017,HM625,Host,Galaxea,Shallow,Dhaalu,Naibukaloabodufushi,-17.5,6.2,332.54,0.092,9.2,75.59,0.021,2.1,3.619,3619,5.1
+2017,HM626,Host,Galaxea,Shallow,Dhaalu,Naibukaloabodufushi,-17.7,6.3,383.04,0.104,10.4,80.47,0.022,2.2,3.689,3689,5.6
+2017,HM628,Host,Galaxea,Shallow,Dhaalu,Naibukaloabodufushi,-16.6,6.5,369.95,0.102,10.2,74.94,0.021,2.1,3.623,3623,5.8
+2017,HM633,Host,Pocillopora,Shallow,Dhaalu,Naibukaloabodufushi,-18.1,6.6,374.35,0.103,10.3,80.38,0.022,2.2,3.631,3631,5.4
+2017,HM634,Host,Pocillopora,Shallow,Dhaalu,Naibukaloabodufushi,-17.3,6.7,439.54,0.122,12.2,94.49,0.026,2.6,3.612,3612,5.4
+2017,HM637,Host,Pocillopora,Shallow,Dhaalu,Naibukaloabodufushi,-17.8,6.7,342.63,0.095,9.5,77.74,0.021,2.1,3.621,3621,5.1
+2017,HM638,Host,Pachyseris,Shallow,Dhaalu,Naibukaloabodufushi,-17,6.5,349.43,0.097,9.7,68.69,0.019,1.9,3.612,3612,5.9
+2017,HM641,Host,Pachyseris,Shallow,Dhaalu,Naibukaloabodufushi,-17.4,6.1,436.13,0.119,11.9,82.24,0.022,2.2,3.671,3671,6.2
+2017,HM648,Host,Pocillopora,Deep,Dhaalu,Naibukaloabodufushi,-19.2,6,481.56,0.133,13.3,97.59,0.027,2.7,3.631,3631,5.8
+2017,HM649,Host,Pocillopora,Deep,Dhaalu,Naibukaloabodufushi,-17,6.4,398.81,0.109,10.9,87.18,0.024,2.4,3.672,3672,5.3
+2017,HM650,Host,Pocillopora,Deep,Dhaalu,Naibukaloabodufushi,-18.3,6.3,446.74,0.123,12.3,91.85,0.025,2.5,3.639,3639,5.7
+2017,HM654,Host,Pachyseris,Deep,Dhaalu,Naibukaloabodufushi,-14.9,6.8,373.77,0.104,10.4,77.3,0.021,2.1,3.596,3596,5.6
+2017,HM655,Host,Pachyseris,Deep,Dhaalu,Naibukaloabodufushi,-17.1,6.6,272.98,0.075,7.5,49.65,0.014,1.4,3.649,3649,6.4
+2017,HM661,Host,Pachyseris,Deep,Dhaalu,Naibukaloabodufushi,-15.1,6.7,320.99,0.089,8.9,70.32,0.019,1.9,3.623,3623,5.3
+2017,HM664,Host,Galaxea,Deep,Dhaalu,Naibukaloabodufushi,-17.4,6.7,416.17,0.114,11.4,93.36,0.026,2.6,3.653,3653,5.2
+2017,HM665,Host,Galaxea,Deep,Dhaalu,Naibukaloabodufushi,-18.8,6.3,244.95,0.067,6.7,50.04,0.014,1.4,3.672,3672,5.7
+2017,HM667,Host,Galaxea,Deep,Dhaalu,Naibukaloabodufushi,-17,7.1,225.68,0.062,6.2,51.66,0.014,1.4,3.621,3621,5.1
+2017,HM670,Host,Pocillopora,Deep,Dhaalu,Hulhuvehi,-19.3,6.1,331.89,0.091,9.1,72.95,0.02,2,3.644,3644,5.3
+2017,HM671,Host,Pocillopora,Deep,Dhaalu,Hulhuvehi,-18.1,5,168.23,0.047,4.7,42.8,0.012,1.2,3.593,3593,4.6
+2017,HM672,Host,Pocillopora,Deep,Dhaalu,Hulhuvehi,-19.3,6.1,270.03,0.074,7.4,63.36,0.017,1.7,3.642,3642,5
+2017,HM677,Host,Pocillopora,Deep,Dhaalu,Hulhuvehi,-18.9,6,254.57,0.07,7,55.17,0.015,1.5,3.623,3623,5.4
+2017,HM679,Host,Galaxea,Deep,Dhaalu,Hulhuvehi,-17.5,6,251.08,0.069,6.9,56.24,0.015,1.5,3.632,3632,5.2
+2017,HM687,Host,Pachyseris,Deep,Dhaalu,Hulhuvehi,-17.2,5.3,126.1,0.034,3.4,27.35,0.007,0.7,3.668,3668,5.4
+2017,HM690,Host,Pachyseris,Deep,Dhaalu,Hulhuvehi,-19,5.4,183.07,0.05,5,44.34,0.012,1.2,3.638,3638,4.8
+2017,HM692,Host,Pachyseris,Deep,Dhaalu,Hulhuvehi,-15.7,6.3,391.55,0.107,10.7,70.97,0.019,1.9,3.672,3672,6.4
+2017,HM694,Host,Pocillopora,Shallow,Dhaalu,Hulhuvehi,-17.7,6.2,332.25,0.092,9.2,76.14,0.021,2.1,3.627,3627,5.1
+2017,HM695,Host,Pocillopora,Shallow,Dhaalu,Hulhuvehi,-17.9,6,207.07,0.057,5.7,49.75,0.014,1.4,3.658,3658,4.9
+2017,HM698,Host,Pocillopora,Shallow,Dhaalu,Hulhuvehi,-16,5.9,272.21,0.074,7.4,58.51,0.016,1.6,3.7,3700,5.4
+2017,HM700,Host,Pocillopora,Shallow,Dhaalu,Hulhuvehi,-18.5,5.9,192.85,0.053,5.3,44.68,0.012,1.2,3.664,3664,5
+2017,HM702,Host,Pachyseris,Shallow,Dhaalu,Hulhuvehi,,,51.13,0.025,2.5,11.47,0.006,0.6,2.082,2082,5.2
+2017,HM703,Host,Pachyseris,Shallow,Dhaalu,Hulhuvehi,-15.7,5.6,218.43,0.06,6,42.31,0.012,1.2,3.629,3629,6
+2017,HM704,Host,Pachyseris,Shallow,Dhaalu,Hulhuvehi,-15.8,5.5,198.18,0.054,5.4,34.81,0.01,1,3.643,3643,6.6
+2017,HM707,Host,Galaxea,Shallow,Dhaalu,Hulhuvehi,-17.6,5.8,184.44,0.05,5,42.31,0.012,1.2,3.657,3657,5.1
+2017,HM710,Host,Galaxea,Shallow,Dhaalu,Hulhuvehi,-15,6.1,178.24,0.048,4.8,40.54,0.011,1.1,3.696,3696,5.1
+2017,HM712,Host,Galaxea,Shallow,Dhaalu,Hulhuvehi,-16.7,5.8,208.98,0.058,5.8,47.33,0.013,1.3,3.631,3631,5.2
+2017,HM714,Host,Pachyseris,Deep,Meemu,Kurali,-16.6,6.1,336.61,0.093,9.3,63.97,0.018,1.8,3.62,3620,6.1
+2017,HM719,Host,Pachyseris,Deep,Meemu,Kurali,-14.2,6.5,398.12,0.108,10.8,77.95,0.021,2.1,3.694,3694,6
+2017,HM725,Host,Pachyseris,Shallow,Meemu,Kurali,-16.4,5.8,,,,179.68,0.049,4.9,3.696,3696,
+2017,HM728,Host,Pachyseris,Shallow,Meemu,Kurali,-14.5,6.4,497,0.136,13.6,96.18,0.026,2.6,3.644,3644,6
+2017,HM729,Host,Pachyseris,Shallow,Meemu,Kurali,-14.2,6.1,505.08,0.138,13.8,100.01,0.027,2.7,3.66,3660,5.9
+2017,HM732,Host,Galaxea,Deep,Meemu,Bodu huraa,-18.1,6.2,324.48,0.088,8.8,69.06,0.019,1.9,3.684,3684,5.5
+2017,HM733,Host,Pocillopora,Deep,Meemu,Bodu huraa,-19.2,5.8,344.51,0.094,9.4,73.96,0.02,2,3.657,3657,5.4
+2017,HM734,Host,Pocillopora,Deep,Meemu,Bodu huraa,-18.8,5.8,344.64,0.094,9.4,75.46,0.02,2,3.681,3681,5.3
+2017,HM736,Host,Pocillopora,Deep,Meemu,Bodu huraa,,,76.26,0.021,2.1,18.46,0.005,0.5,3.643,3643,4.8
+2017,HM738,Host,Galaxea,Deep,Meemu,Bodu huraa,-17.1,5.7,229.91,0.063,6.3,52.89,0.014,1.4,3.658,3658,5.1
+2017,HM742,Host,Pocillopora,Deep,Meemu,Bodu huraa,-18.5,5.7,201.55,0.055,5.5,51.1,0.014,1.4,3.663,3663,4.6
+2017,HM743,Host,Pachyseris,Deep,Meemu,Bodu huraa,-14.1,6,244.95,0.067,6.7,51.84,0.014,1.4,3.675,3675,5.5
+2017,HM746,Host,Pachyseris,Deep,Meemu,Bodu huraa,-15.1,5.7,226.2,0.063,6.3,43.15,0.012,1.2,3.617,3617,6.1
+2017,HM747,Host,Pachyseris,Deep,Meemu,Bodu huraa,-15.3,5.7,249.1,0.068,6.8,50.08,0.014,1.4,3.646,3646,5.8
+2017,HM748,Host,Galaxea,Deep,Meemu,Bodu huraa,-18,6.1,196.39,0.053,5.3,42.27,0.012,1.2,3.673,3673,5.4
+2017,HM758,Host,Galaxea,Shallow,Meemu,Bodu huraa,-16.4,6.4,311.78,0.085,8.5,67.24,0.018,1.8,3.682,3682,5.4
+2017,HM760,Host,Galaxea,Shallow,Meemu,Bodu huraa,-19.6,5.1,201.18,0.055,5.5,44.22,0.012,1.2,3.635,3635,5.3
+2017,HM761,Host,Galaxea,Shallow,Meemu,Bodu huraa,-15.6,5.7,356.23,0.098,9.8,70.27,0.019,1.9,3.62,3620,5.9
+2017,HM768,Host,Pachyseris,Shallow,Meemu,Bodu huraa,-16.1,5.4,243.88,0.067,6.7,49,0.013,1.3,3.661,3661,5.8
+2017,HM769,Host,Pocillopora,Shallow,Meemu,Bodu huraa,-17.3,6,249.73,0.068,6.8,56.17,0.015,1.5,3.691,3691,5.2
+2017,HM771,Host,Pachyseris,Shallow,Meemu,Bodu huraa,-13.7,6.9,170.07,0.044,4.4,33.55,0.009,0.9,3.824,3824,5.9
+2017,HM773,Host,Pachyseris,Shallow,Meemu,Bodu huraa,,,56.57,0.015,1.5,13.64,0.004,0.4,3.681,3681,4.8
+2017,HM776,Host,Pachyseris,Shallow,Meemu,Bodu huraa,-16.4,5.9,128.57,0.033,3.3,27.03,0.007,0.7,3.875,3875,5.5
+2017,HM777,Host,Pachyseris,Shallow,Meemu,Bodu huraa,-19.7,5.1,201.74,0.055,5.5,37.74,0.01,1,3.683,3683,6.2
+2017,HM778,Host,Pocillopora,Shallow,Meemu,Bodu huraa,-17.3,5.8,262.78,0.073,7.3,56.61,0.016,1.6,3.621,3621,5.4
+2017,HM779,Host,Pocillopora,Shallow,Meemu,Bodu huraa,-17.8,5.6,180.03,0.05,5,39.03,0.011,1.1,3.604,3604,5.4
+2017,HM780,Host,Pocillopora,Shallow,Meemu,Bodu huraa,-17.4,6,279.32,0.077,7.7,58.37,0.016,1.6,3.626,3626,5.6
+2017,HM784,Host,Pachyseris,Deep,Meemu,Veyvah,-15.1,5.4,345.82,0.095,9.5,68.57,0.019,1.9,3.632,3632,5.9
+2017,HM786,Host,Pachyseris,Deep,Meemu,Veyvah,-15.5,5.2,279.42,0.077,7.7,50.01,0.014,1.4,3.64,3640,6.5
+2017,HM787,Host,Pachyseris,Deep,Meemu,Veyvah,-14.7,6.1,375.68,0.103,10.3,68.37,0.019,1.9,3.645,3645,6.4
+2017,HM793,Host,Galaxea,Deep,Meemu,Veyvah,-17,5.8,363.99,0.099,9.9,80.54,0.022,2.2,3.691,3691,5.3
+2017,HM794,Host,Galaxea,Deep,Meemu,Veyvah,-18.4,6.3,386.22,0.107,10.7,79.25,0.022,2.2,3.601,3601,5.7
+2017,HM796,Host,Galaxea,Deep,Meemu,Veyvah,-18.3,6.4,340.55,0.093,9.3,69.59,0.019,1.9,3.679,3679,5.7
+2017,HM801,Host,Pocillopora,Deep,Meemu,Veyvah,-16.7,6.1,418.34,0.115,11.5,84.67,0.023,2.3,3.633,3633,5.8
+2017,HM805,Host,Pocillopora,Deep,Meemu,Veyvah,-16.9,6.2,357.07,0.098,9.8,78.16,0.021,2.1,3.647,3647,5.3
+2017,HM806,Host,Pocillopora,Deep,Meemu,Veyvah,-17.5,6.6,399.09,0.109,10.9,84.61,0.023,2.3,3.651,3651,5.5
+2017,HM810,Host,Pocillopora,Shallow,Meemu,Veyvah,-17.8,6.6,366.91,0.1,10,76.74,0.021,2.1,3.669,3669,5.6
+2017,HM813,Host,Pocillopora,Shallow,Meemu,Veyvah,-17.8,6.3,379.94,0.105,10.5,83.71,0.023,2.3,3.627,3627,5.3
+2017,HM817,Host,Pocillopora,Shallow,Meemu,Veyvah,-18.4,6.7,374.6,0.103,10.3,82.11,0.022,2.2,3.65,3650,5.3
+2017,HM819,Host,Galaxea,Shallow,Meemu,Veyvah,-17.3,5.5,307.7,0.084,8.4,69.73,0.019,1.9,3.653,3653,5.1
+2017,HM820,Host,Galaxea,Shallow,Meemu,Veyvah,-15.8,6.9,273.14,0.075,7.5,55.49,0.015,1.5,3.658,3658,5.7
+2017,HM823,Host,Pachyseris,Deep,Vaavu,Kandimma Falhu,-15.5,6.3,386.42,0.105,10.5,75.7,0.021,2.1,3.669,3669,6
+2017,HM827,Host,Pachyseris,Deep,Vaavu,Kandimma Falhu,-15.8,5.9,387.69,0.105,10.5,72.31,0.02,2,3.694,3694,6.3
+2017,HM829,Host,Pachyseris,Deep,Vaavu,Kandimma Falhu,-16,4.4,351.32,0.096,9.6,71,0.019,1.9,3.674,3674,5.8
+2017,HM830,Host,Galaxea,Deep,Vaavu,Kandimma Falhu,-18.4,6.5,390.9,0.107,10.7,86.53,0.024,2.4,3.638,3638,5.3
+2017,HM831,Host,Galaxea,Deep,Vaavu,Kandimma Falhu,-17.2,6.8,250.03,0.068,6.8,56.24,0.015,1.5,3.662,3662,5.2
+2017,HM832,Host,Galaxea,Deep,Vaavu,Kandimma Falhu,-17,5.8,289.93,0.079,7.9,67.31,0.018,1.8,3.678,3678,5
+2017,HM835,Host,Pocillopora,Deep,Vaavu,Kandimma Falhu,-19.4,5.5,225.4,0.062,6.2,56.62,0.016,1.6,3.639,3639,4.6
+2017,HM838,Host,Pocillopora,Deep,Vaavu,Kandimma Falhu,-17.5,5.6,264.38,0.068,6.8,57.3,0.015,1.5,3.903,3903,5.4
+2017,HM843,Host,Pocillopora,Deep,Vaavu,Kandimma Falhu,-19,5.9,247.76,0.068,6.8,55.99,0.015,1.5,3.625,3625,5.2
+2017,HM845,Host,Pachyseris,Shallow,Vaavu,Kandimma Falhu,-13.1,6.2,295.39,0.082,8.2,61.73,0.017,1.7,3.608,3608,5.6
+2017,HM846,Host,Pachyseris,Shallow,Vaavu,Kandimma Falhu,-14.1,6,294.77,0.081,8.1,57.9,0.016,1.6,3.618,3618,5.9
+2017,HM847,Host,Pachyseris,Shallow,Vaavu,Kandimma Falhu,-12.3,6.8,287.2,0.078,7.8,59.53,0.016,1.6,3.703,3703,5.6
+2017,HM848,Host,Pachyseris,Shallow,Vaavu,Kandimma Falhu,-15.8,6.4,169.31,0.046,4.6,34.41,0.009,0.9,3.698,3698,5.7
+2017,HM852,Host,Pachyseris,Shallow,Vaavu,Kandimma Falhu,-14,5.4,218.11,0.06,6,43.59,0.012,1.2,3.637,3637,5.8
+2017,HM856,Host,Pocillopora,Shallow,Vaavu,Kandimma Falhu,-17.2,6.4,473.4,0.129,12.9,100.03,0.027,2.7,3.682,3682,5.5
+2017,HM860,Host,Pocillopora,Shallow,Vaavu,Kandimma Falhu,-16.8,6,451.7,0.122,12.2,96.75,0.026,2.6,3.7,3700,5.4
+2017,HM861,Host,Pocillopora,Shallow,Vaavu,Kandimma Falhu,-17.4,6.6,480.47,0.132,13.2,103.2,0.028,2.8,3.627,3627,5.4
+2017,HM865,Host,Galaxea,Shallow,Vaavu,Kandimma Falhu,-15.4,6.4,452,0.124,12.4,102.34,0.028,2.8,3.657,3657,5.2
+2017,HM868,Host,Galaxea,Shallow,Vaavu,Kandimma Falhu,-15,6.2,459.39,0.126,12.6,95.23,0.026,2.6,3.635,3635,5.6
+2017,HM869,Host,Galaxea,Shallow,Vaavu,Kandimma Falhu,-16.2,6.6,230.99,0.064,6.4,49.69,0.014,1.4,3.607,3607,5.4
+2017,HM872,Host,Pocillopora,Deep,Vaavu,Medhu Faru,-18.1,6.5,493.99,0.134,13.4,105.47,0.029,2.9,3.696,3696,5.5
+2017,HM873,Host,Pocillopora,Deep,Vaavu,Medhu Faru,-18.7,5.6,409.69,0.111,11.1,88.1,0.024,2.4,3.693,3693,5.4
+2017,HM874,Host,Pocillopora,Deep,Vaavu,Medhu Faru,-18.6,6.2,439.06,0.121,12.1,87.8,0.024,2.4,3.626,3626,5.8
+2017,HM875,Host,Galaxea,Deep,Vaavu,Medhu Faru,-17.8,6.2,296.78,0.081,8.1,67.32,0.018,1.8,3.643,3643,5.1
+2017,HM879,Host,Galaxea,Deep,Vaavu,Medhu Faru,-18,6.6,446.32,0.123,12.3,101.08,0.028,2.8,3.626,3626,5.2
+2017,HM880,Host,Galaxea,Deep,Vaavu,Medhu Faru,-17,6,271.24,0.073,7.3,63.73,0.017,1.7,3.705,3705,5
+2017,HM885,Host,Pachyseris,Deep,Vaavu,Medhu Faru,-16.9,6,633.53,0.173,17.3,105.24,0.029,2.9,3.672,3672,7
+2017,HM888,Host,Pachyseris,Deep,Vaavu,Medhu Faru,-16.7,6.2,327.27,0.089,8.9,60.81,0.017,1.7,3.681,3681,6.3
+2017,HM889,Host,Pachyseris,Deep,Vaavu,Medhu Faru,-18.2,6.5,662.73,0.18,18,147.27,0.04,4,3.672,3672,5.3
+2017,HM893,Host,Pocillopora,Shallow,Vaavu,Medhu Faru,-19,6.1,405.3,0.111,11.1,93.6,0.026,2.6,3.641,3641,5.1
+2017,HM897,Host,Pocillopora,Shallow,Vaavu,Medhu Faru,-17.2,7,628.93,0.174,17.4,142.67,0.039,3.9,3.62,3620,5.1
+2017,HM899,Host,Pocillopora,Shallow,Vaavu,Medhu Faru,-15.6,6.3,426.46,0.115,11.5,72.66,0.02,2,3.701,3701,6.8
+2017,HM903,Host,Galaxea,Shallow,Vaavu,Medhu Faru,-17.4,6.1,371.51,0.101,10.1,72.68,0.02,2,3.68,3680,6
+2017,HM905,Host,Galaxea,Shallow,Vaavu,Medhu Faru,-16.8,6.3,506.37,0.14,14,112.6,0.031,3.1,3.612,3612,5.2
+2017,HM906,Host,Galaxea,Shallow,Vaavu,Medhu Faru,-14.8,5.8,387.47,0.106,10.6,86.76,0.024,2.4,3.655,3655,5.2
+2017,HM913,Host,Galaxea,Deep,South Male,Tholhimaraahuraa,-17.2,6.5,656.5,0.179,17.9,125.51,0.034,3.4,3.658,3658,6.1
+2017,HM915,Host,Galaxea,Deep,South Male,Tholhimaraahuraa,-17.3,6.5,533.38,0.146,14.6,113.75,0.031,3.1,3.655,3655,5.5
+2017,HM916,Host,Galaxea,Deep,South Male,Tholhimaraahuraa,-17.6,7,383.46,0.104,10.4,81.12,0.022,2.2,3.682,3682,5.5
+2017,HM921,Host,Pocillopora,Deep,South Male,Tholhimaraahuraa,-19.2,6.1,494.51,0.136,13.6,106.29,0.029,2.9,3.623,3623,5.4
+2017,HM922,Host,Pocillopora,Deep,South Male,Tholhimaraahuraa,-16.9,6.1,468.37,0.129,12.9,99.24,0.027,2.7,3.644,3644,5.5
+2017,HM927,Host,Pocillopora,Deep,South Male,Tholhimaraahuraa,-18.7,6.2,474.7,0.132,13.2,100.5,0.028,2.8,3.6,3600,5.5
+2017,HM930,Host,Pachyseris,Deep,South Male,Tholhimaraahuraa,-15.6,7,459.65,0.126,12.6,85.87,0.024,2.4,3.635,3635,6.2
+2017,HM933,Host,Pachyseris,Deep,South Male,Tholhimaraahuraa,-17.5,6.2,366.6,0.1,10,67.44,0.018,1.8,3.648,3648,6.3
+2017,HM934,Host,Pachyseris,Deep,South Male,Tholhimaraahuraa,-17.1,6.3,452.32,0.123,12.3,79.87,0.022,2.2,3.688,3688,6.6
+2017,HM938,Host,Galaxea,Shallow,South Male,Tholhimaraahuraa,-17,6.2,467.75,0.129,12.9,102.85,0.028,2.8,3.634,3634,5.3
+2017,HM939,Host,Galaxea,Shallow,South Male,Tholhimaraahuraa,-17.5,6.6,418.95,0.114,11.4,97.68,0.027,2.7,3.684,3684,5
+2017,HM946,Host,Galaxea,Shallow,South Male,Tholhimaraahuraa,-16.9,6.5,521.84,0.144,14.4,112.98,0.031,3.1,3.618,3618,5.4
+2017,HM949,Host,Pocillopora,Shallow,South Male,Tholhimaraahuraa,-17.5,6.7,507.04,0.139,13.9,112.23,0.031,3.1,3.658,3658,5.3
+2017,HM950,Host,Pocillopora,Shallow,South Male,Tholhimaraahuraa,-17.4,6.7,571.98,0.156,15.6,124.72,0.034,3.4,3.658,3658,5.4
+2017,HM952,Host,Pocillopora,Shallow,South Male,Tholhimaraahuraa,-16.9,6.6,525.96,0.145,14.5,114.48,0.032,3.2,3.615,3615,5.4
+2017,HM961,Host,Pachyseris,Shallow,South Male,Tholhimaraahuraa,-16.2,6.8,437.64,0.12,12,78.63,0.022,2.2,3.649,3649,6.5
+2017,HM962,Host,Pachyseris,Shallow,South Male,Tholhimaraahuraa,-14.8,6.8,435.19,0.12,12,84.22,0.023,2.3,3.64,3640,6
+2017,HM965,Host,Pachyseris,Shallow,South Male,Tholhimaraahuraa,-17.2,4.5,215.2,0.059,5.9,43.28,0.012,1.2,3.649,3649,5.8
+2017,HM967,Host,Pocillopora,Deep,South Male,Fushidiggaru Falhu,-18.6,6,362.89,0.098,9.8,81.78,0.022,2.2,3.694,3694,5.2
+2017,HM969,Host,Pocillopora,Deep,South Male,Fushidiggaru Falhu,-18.7,6,323.25,0.089,8.9,66.26,0.018,1.8,3.647,3647,5.7
+2017,HM975,Host,Pocillopora,Deep,South Male,Fushidiggaru Falhu,-18.4,6,380.27,0.104,10.4,75.62,0.021,2.1,3.666,3666,5.9
+2017,HM979,Host,Galaxea,Deep,South Male,Fushidiggaru Falhu,-16.1,5.7,722.24,0.197,19.7,130.29,0.036,3.6,3.664,3664,6.5
+2017,HM981,Host,Galaxea,Deep,South Male,Fushidiggaru Falhu,-16.7,5.9,523.18,0.141,14.1,105.8,0.029,2.9,3.699,3699,5.8
+2017,HM984,Host,Galaxea,Deep,South Male,Fushidiggaru Falhu,-16.6,5.9,407.48,0.113,11.3,87.85,0.024,2.4,3.62,3620,5.4
+2017,HM985,Host,Pachyseris,Deep,South Male,Fushidiggaru Falhu,-15.6,5.8,458.69,0.125,12.5,93.44,0.025,2.5,3.684,3684,5.7
+2017,HM986,Host,Pachyseris,Deep,South Male,Fushidiggaru Falhu,-14.2,5.7,632.88,0.171,17.1,113.04,0.031,3.1,3.692,3692,6.5
+2017,HM990,Host,Pachyseris,Deep,South Male,Fushidiggaru Falhu,-16.3,5.7,195.05,0.053,5.3,43.06,0.012,1.2,3.688,3688,5.3
+2017,HM998,Host,Galaxea,Shallow,South Male,Fushidiggaru Falhu,-17.1,5.9,381.31,0.104,10.4,79.87,0.022,2.2,3.651,3651,5.6
+2017,HM1000,Host,Galaxea,Shallow,South Male,Fushidiggaru Falhu,-14.5,5.7,443.36,0.12,12,84.73,0.023,2.3,3.688,3688,6.1
+2017,HM1001,Host,Galaxea,Shallow,South Male,Fushidiggaru Falhu,-16.6,6.2,329.79,0.091,9.1,68.69,0.019,1.9,3.637,3637,5.6
+2017,HM1005,Host,Pocillopora,Shallow,South Male,Fushidiggaru Falhu,-16.7,6,321.03,0.089,8.9,77.47,0.022,2.2,3.602,3602,4.8
+2017,HM1007,Host,Pocillopora,Shallow,South Male,Fushidiggaru Falhu,-17.7,6.4,437.64,0.119,11.9,97.88,0.027,2.7,3.693,3693,5.2
+2017,HM1008,Host,Pocillopora,Shallow,South Male,Fushidiggaru Falhu,-17,4.1,404.95,0.11,11,127.11,0.035,3.5,3.674,3674,3.7
+2017,HM1010,Host,Pachyseris,Shallow,South Male,Fushidiggaru Falhu,-14.5,5.7,415.49,0.113,11.3,68.98,0.019,1.9,3.682,3682,7
+2017,HM1011,Host,Pachyseris,Shallow,South Male,Fushidiggaru Falhu,-16,5.8,302.31,0.083,8.3,58.74,0.016,1.6,3.638,3638,6
